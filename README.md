@@ -8,7 +8,7 @@
 <br>
 
 <h1 align="center">Hi 👋, I'm Shreyansh Singh</h1>
-<p align="centre"> <img src="https://komarev.com/ghpvc/?username=souravrjpt&label=Profile%20views&color=0e75b6&style=flat" alt="Shreyansh2111" />
+<p align="centre"> <img src="https://komarev.com/ghpvc/?username=Shreyansh2111&label=Profile%20views&color=0e75b6&style=flat" alt="Shreyansh2111" />
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsouravrjpt1212%2Fhit-counter"/>
 </p>
 <h3 align="center">A passionate Web Developer and AI enthusiast from India.</h3><be>
